@@ -5,7 +5,7 @@ title: Sebastian Lutterbach
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Post Doc
 
 # Organizations/Affiliations
 organizations:
